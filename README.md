@@ -11,7 +11,6 @@ src/career_analytics/quality.py          data-quality rules
 src/career_analytics/metrics.py          career and transition metrics
 dags/career_analytics_dag.py             Airflow 2.10.1 DAG
 docs/requirements_analysis.md            requirements analysis
-docs/FutureFit_Requirements_Analysis.pdf submission-ready requirements document
 tests/test_pipeline.py                   automated tests
 output/                                  generated database and CSV files
 ```
@@ -123,4 +122,4 @@ I would also:
 - load the final model into a separate analytical database rather than Airflow's metadata database;
 - add monitoring and alerts for failures, freshness, row-count changes, and unusual null or duplicate rates.
 
-The Part 2 response is available as [`docs/requirements_analysis.md`](docs/requirements_analysis.md) and the submission-ready [`docs/FutureFit_Requirements_Analysis.pdf`](docs/FutureFit_Requirements_Analysis.pdf).
+The Part 2 response is in [`docs/requirements_analysis.md`](docs/requirements_analysis.md).
