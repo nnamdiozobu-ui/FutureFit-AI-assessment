@@ -1,0 +1,12 @@
+.venv/
+.DS_Store
+.uv-cache/
+.uv-python/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+*.py[cod]
+output/*.duckdb
+output/*.csv
+output/*.json
+!output/.gitkeep

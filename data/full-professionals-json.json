@@ -1,0 +1,890 @@
+{
+  "professionals": [
+    {
+      "professional_id": "P001",
+      "years_experience": 12,
+      "current_industry": "Technology",
+      "current_role": "Data Scientist",
+      "education_level": "Masters",
+      "jobs": [
+        {
+          "job_id": "J001",
+          "company": "TechCorp",
+          "industry": "Technology",
+          "role": "Junior Analyst",
+          "start_date": "2011-06-15",
+          "end_date": "2013-08-30",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J002",
+          "company": "DataWorks",
+          "industry": "Technology",
+          "role": "Data Analyst",
+          "start_date": "2013-09-15",
+          "end_date": "2016-05-20",
+          "salary_band": 3
+        },
+        {
+          "job_id": "J003",
+          "company": "Analytix",
+          "industry": "Technology",
+          "role": "Senior Data Analyst",
+          "start_date": "2016-06-01",
+          "end_date": "2019-04-15",
+          "salary_band": 4
+        },
+        {
+          "job_id": "J004",
+          "company": "AIVentures",
+          "industry": "Technology",
+          "role": "Data Scientist",
+          "start_date": "2019-05-01",
+          "end_date": "2023-02-28",
+          "salary_band": 5
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S001",
+          "skill_name": "Python",
+          "proficiency_level": "Advanced",
+          "years_experience": 8
+        },
+        {
+          "skill_id": "S002",
+          "skill_name": "SQL",
+          "proficiency_level": "Expert",
+          "years_experience": 10
+        },
+        {
+          "skill_id": "S003",
+          "skill_name": "Machine Learning",
+          "proficiency_level": "Advanced",
+          "years_experience": 6
+        },
+        {
+          "skill_id": "S004",
+          "skill_name": "Data Visualization",
+          "proficiency_level": "Intermediate",
+          "years_experience": 7
+        },
+        {
+          "skill_id": "S088",
+          "skill_name": "TensorFlow",
+          "proficiency_level": "Advanced",
+          "years_experience": 5
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C001",
+          "certification_name": "Data Science Professional",
+          "issuing_organization": "DataCamp",
+          "date_earned": "2017-05-20",
+          "expiration_date": "2023-05-20"
+        },
+        {
+          "certification_id": "C002",
+          "certification_name": "Machine Learning Specialist",
+          "issuing_organization": "Coursera",
+          "date_earned": "2018-08-15",
+          "expiration_date": "2024-08-15"
+        },
+        {
+          "certification_id": "C003",
+          "certification_name": "Python for Data Analysis",
+          "issuing_organization": "DataCamp",
+          "date_earned": "2016-03-10",
+          "expiration_date": "2022-03-10"
+        },
+        {
+          "certification_id": "C035",
+          "certification_name": "Big Data Analytics",
+          "issuing_organization": "IBM",
+          "date_earned": "2019-11-15",
+          "expiration_date": "2022-11-15"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E001",
+          "degree": "Bachelors",
+          "institution": "State University",
+          "field_of_study": "Computer Science",
+          "graduation_date": "2011-05-15"
+        },
+        {
+          "education_id": "E002",
+          "degree": "Masters",
+          "institution": "Tech Institute",
+          "field_of_study": "Data Science",
+          "graduation_date": "2015-12-20"
+        }
+      ]
+    },
+    {
+      "professional_id": "P002",
+      "years_experience": 8,
+      "current_industry": "Marketing",
+      "current_role": "Marketing Manager",
+      "education_level": "Bachelors",
+      "jobs": [
+        {
+          "job_id": "J005",
+          "company": "MarketBoost",
+          "industry": "Marketing",
+          "role": "Marketing Assistant",
+          "start_date": "2015-03-10",
+          "end_date": "2017-07-20",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J006",
+          "company": "BrandBuilders",
+          "industry": "Marketing",
+          "role": "Marketing Specialist",
+          "start_date": "2017-08-15",
+          "end_date": "2020-02-28",
+          "salary_band": 3
+        },
+        {
+          "job_id": "J007",
+          "company": "GlobalMedia",
+          "industry": "Marketing",
+          "role": "Marketing Manager",
+          "start_date": "2020-03-10",
+          "end_date": null,
+          "salary_band": 4
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S005",
+          "skill_name": "Market Research",
+          "proficiency_level": "Advanced",
+          "years_experience": 6
+        },
+        {
+          "skill_id": "S006",
+          "skill_name": "Campaign Management",
+          "proficiency_level": "Advanced",
+          "years_experience": 5
+        },
+        {
+          "skill_id": "S007",
+          "skill_name": "Social Media Strategy",
+          "proficiency_level": "Expert",
+          "years_experience": 7
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C004",
+          "certification_name": "Digital Marketing Certification",
+          "issuing_organization": "Google",
+          "date_earned": "2016-10-25",
+          "expiration_date": "2022-10-25"
+        },
+        {
+          "certification_id": "C005",
+          "certification_name": "Social Media Marketing",
+          "issuing_organization": "HubSpot",
+          "date_earned": "2018-04-12",
+          "expiration_date": "2023-04-12"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E003",
+          "degree": "Bachelors",
+          "institution": "Marketing College",
+          "field_of_study": "Marketing",
+          "graduation_date": "2015-06-10"
+        }
+      ]
+    },
+    {
+      "professional_id": "P003",
+      "years_experience": 15,
+      "current_industry": "Technology",
+      "current_role": "Engineering Director",
+      "education_level": "Masters",
+      "jobs": [
+        {
+          "job_id": "J008",
+          "company": "StartupTech",
+          "industry": "Technology",
+          "role": "Software Developer",
+          "start_date": "2008-05-20",
+          "end_date": "2011-08-15",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J009",
+          "company": "CodeWorks",
+          "industry": "Technology",
+          "role": "Senior Developer",
+          "start_date": "2011-09-01",
+          "end_date": "2014-11-30",
+          "salary_band": 3
+        },
+        {
+          "job_id": "J010",
+          "company": "InnovateSoft",
+          "industry": "Technology",
+          "role": "Team Lead",
+          "start_date": "2014-12-15",
+          "end_date": "2018-06-30",
+          "salary_band": 4
+        },
+        {
+          "job_id": "J011",
+          "company": "TechGiants",
+          "industry": "Technology",
+          "role": "Engineering Manager",
+          "start_date": "2018-07-15",
+          "end_date": "2021-03-31",
+          "salary_band": 5
+        },
+        {
+          "job_id": "J012",
+          "company": "FutureTech",
+          "industry": "Technology",
+          "role": "Engineering Director",
+          "start_date": "2021-04-15",
+          "end_date": null,
+          "salary_band": 6
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S008",
+          "skill_name": "Java",
+          "proficiency_level": "Expert",
+          "years_experience": 13
+        },
+        {
+          "skill_id": "S009",
+          "skill_name": "System Architecture",
+          "proficiency_level": "Expert",
+          "years_experience": 10
+        },
+        {
+          "skill_id": "S010",
+          "skill_name": "Team Leadership",
+          "proficiency_level": "Advanced",
+          "years_experience": 9
+        },
+        {
+          "skill_id": "S089",
+          "skill_name": "Python",
+          "proficiency_level": "Intermediate",
+          "years_experience": 6
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C006",
+          "certification_name": "AWS Solutions Architect",
+          "issuing_organization": "Amazon",
+          "date_earned": "2015-07-30",
+          "expiration_date": "2021-07-30"
+        },
+        {
+          "certification_id": "C007",
+          "certification_name": "Project Management Professional",
+          "issuing_organization": "PMI",
+          "date_earned": "2016-11-05",
+          "expiration_date": "2024-11-05"
+        },
+        {
+          "certification_id": "C008",
+          "certification_name": "Agile Scrum Master",
+          "issuing_organization": "Scrum Alliance",
+          "date_earned": "2019-02-18",
+          "expiration_date": "2023-02-18"
+        },
+        {
+          "certification_id": "C036",
+          "certification_name": "Leadership Development",
+          "issuing_organization": "Center for Creative Leadership",
+          "date_earned": "2020-05-18",
+          "expiration_date": "2023-05-18"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E004",
+          "degree": "Bachelors",
+          "institution": "Engineering University",
+          "field_of_study": "Computer Engineering",
+          "graduation_date": "2008-05-30"
+        },
+        {
+          "education_id": "E005",
+          "degree": "Masters",
+          "institution": "Tech Graduate School",
+          "field_of_study": "Software Engineering",
+          "graduation_date": "2012-12-15"
+        }
+      ]
+    },
+    {
+      "professional_id": "P004",
+      "years_experience": 6,
+      "current_industry": "Finance",
+      "current_role": "Financial Analyst",
+      "education_level": "Bachelors",
+      "jobs": [
+        {
+          "job_id": "J013",
+          "company": "FinanceFirst",
+          "industry": "Finance",
+          "role": "Junior Analyst",
+          "start_date": "2017-07-10",
+          "end_date": "2019-05-31",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J014",
+          "company": "MoneyMetrics",
+          "industry": "Finance",
+          "role": "Financial Analyst",
+          "start_date": "2019-06-15",
+          "end_date": null,
+          "salary_band": 3
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S011",
+          "skill_name": "Financial Modeling",
+          "proficiency_level": "Advanced",
+          "years_experience": 6
+        },
+        {
+          "skill_id": "S012",
+          "skill_name": "Excel",
+          "proficiency_level": "Expert",
+          "years_experience": 6
+        },
+        {
+          "skill_id": "S013",
+          "skill_name": "Risk Assessment",
+          "proficiency_level": "Intermediate",
+          "years_experience": 4
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C009",
+          "certification_name": "Financial Analysis",
+          "issuing_organization": "CFA Institute",
+          "date_earned": "2019-12-10",
+          "expiration_date": "2023-12-10"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E006",
+          "degree": "Bachelors",
+          "institution": "Business Academy",
+          "field_of_study": "Finance",
+          "graduation_date": "2017-06-05"
+        }
+      ]
+    },
+    {
+      "professional_id": "P005",
+      "years_experience": 10,
+      "current_industry": "Healthcare",
+      "current_role": "Clinical Research Manager",
+      "education_level": "PhD",
+      "jobs": [
+        {
+          "job_id": "J015",
+          "company": "BioCorp",
+          "industry": "Healthcare",
+          "role": "Research Assistant",
+          "start_date": "2013-08-01",
+          "end_date": "2015-09-30",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J016",
+          "company": "MedicalResearch",
+          "industry": "Healthcare",
+          "role": "Research Associate",
+          "start_date": "2015-10-15",
+          "end_date": "2018-04-30",
+          "salary_band": 3
+        },
+        {
+          "job_id": "J017",
+          "company": "HealthTech",
+          "industry": "Healthcare",
+          "role": "Clinical Research Manager",
+          "start_date": "2018-05-15",
+          "end_date": null,
+          "salary_band": 4
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S014",
+          "skill_name": "Clinical Trials",
+          "proficiency_level": "Expert",
+          "years_experience": 9
+        },
+        {
+          "skill_id": "S015",
+          "skill_name": "Statistical Analysis",
+          "proficiency_level": "Advanced",
+          "years_experience": 8
+        },
+        {
+          "skill_id": "S090",
+          "skill_name": "Data Analysis",
+          "proficiency_level": "Advanced",
+          "years_experience": 7
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C010",
+          "certification_name": "Clinical Research Management",
+          "issuing_organization": "ACRP",
+          "date_earned": "2016-08-22",
+          "expiration_date": "2022-08-22"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E007",
+          "degree": "Bachelors",
+          "institution": "Science University",
+          "field_of_study": "Biology",
+          "graduation_date": "2009-05-20"
+        },
+        {
+          "education_id": "E008",
+          "degree": "Masters",
+          "institution": "Medical University",
+          "field_of_study": "Biostatistics",
+          "graduation_date": "2011-12-18"
+        },
+        {
+          "education_id": "E009",
+          "degree": "PhD",
+          "institution": "Research Institute",
+          "field_of_study": "Clinical Research",
+          "graduation_date": "2013-05-15"
+        }
+      ]
+    },
+    {
+      "professional_id": "P006",
+      "years_experience": 4,
+      "current_industry": "Technology",
+      "current_role": "Software Engineer",
+      "education_level": "Bachelors",
+      "jobs": [
+        {
+          "job_id": "J018",
+          "company": "CodeAcademy",
+          "industry": "Technology",
+          "role": "Intern",
+          "start_date": "2019-06-01",
+          "end_date": "2019-12-31",
+          "salary_band": 1
+        },
+        {
+          "job_id": "J019",
+          "company": "SoftDev",
+          "industry": "Technology",
+          "role": "Junior Developer",
+          "start_date": "2020-01-15",
+          "end_date": "2021-12-31",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J020",
+          "company": "AppBuilders",
+          "industry": "Technology",
+          "role": "Software Engineer",
+          "start_date": "2022-01-10",
+          "end_date": null,
+          "salary_band": 3
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S016",
+          "skill_name": "JavaScript",
+          "proficiency_level": "Intermediate",
+          "years_experience": 3
+        },
+        {
+          "skill_id": "S017",
+          "skill_name": "HTML/CSS",
+          "proficiency_level": "Advanced",
+          "years_experience": 4
+        },
+        {
+          "skill_id": "S018",
+          "skill_name": "React",
+          "proficiency_level": "Intermediate",
+          "years_experience": 2
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C011",
+          "certification_name": "Full Stack Web Development",
+          "issuing_organization": "Udacity",
+          "date_earned": "2020-09-15",
+          "expiration_date": "2023-09-15"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E010",
+          "degree": "Bachelors",
+          "institution": "Computer Institute",
+          "field_of_study": "Computer Science",
+          "graduation_date": "2019-06-10"
+        }
+      ]
+    },
+    {
+      "professional_id": "P007",
+      "years_experience": 9,
+      "current_industry": "Retail",
+      "current_role": "Product Manager",
+      "education_level": "Masters",
+      "jobs": [
+        {
+          "job_id": "J021",
+          "company": "ShopSmart",
+          "industry": "Retail",
+          "role": "Product Analyst",
+          "start_date": "2014-09-20",
+          "end_date": "2017-03-31",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J022",
+          "company": "BuyMore",
+          "industry": "Retail",
+          "role": "Senior Product Analyst",
+          "start_date": "2017-04-15",
+          "end_date": "2020-08-31",
+          "salary_band": 3
+        },
+        {
+          "job_id": "J023",
+          "company": "RetailNow",
+          "industry": "Retail",
+          "role": "Product Manager",
+          "start_date": "2020-09-15",
+          "end_date": null,
+          "salary_band": 4
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S019",
+          "skill_name": "Product Strategy",
+          "proficiency_level": "Advanced",
+          "years_experience": 6
+        },
+        {
+          "skill_id": "S020",
+          "skill_name": "Market Analysis",
+          "proficiency_level": "Advanced",
+          "years_experience": 7
+        },
+        {
+          "skill_id": "S021",
+          "skill_name": "User Research",
+          "proficiency_level": "Intermediate",
+          "years_experience": 5
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C012",
+          "certification_name": "Product Management Certification",
+          "issuing_organization": "Product School",
+          "date_earned": "2018-11-20",
+          "expiration_date": "2022-11-20"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E011",
+          "degree": "Bachelors",
+          "institution": "Business School",
+          "field_of_study": "Business Administration",
+          "graduation_date": "2014-05-25"
+        },
+        {
+          "education_id": "E012",
+          "degree": "Masters",
+          "institution": "Marketing Institute",
+          "field_of_study": "Product Management",
+          "graduation_date": "2018-12-15"
+        }
+      ]
+    },
+    {
+      "professional_id": "P008",
+      "years_experience": 3,
+      "current_industry": "Marketing",
+      "current_role": "Content Specialist",
+      "education_level": "Bachelors",
+      "jobs": [
+        {
+          "job_id": "J024",
+          "company": "ContentCo",
+          "industry": "Marketing",
+          "role": "Content Writer",
+          "start_date": "2020-06-01",
+          "end_date": "2022-03-31",
+          "salary_band": 1
+        },
+        {
+          "job_id": "J025",
+          "company": "DigitalMedia",
+          "industry": "Marketing",
+          "role": "Content Specialist",
+          "start_date": "2022-04-15",
+          "end_date": null,
+          "salary_band": 2
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S022",
+          "skill_name": "Content Writing",
+          "proficiency_level": "Advanced",
+          "years_experience": 3
+        },
+        {
+          "skill_id": "S023",
+          "skill_name": "SEO",
+          "proficiency_level": "Intermediate",
+          "years_experience": 2
+        },
+        {
+          "skill_id": "S024",
+          "skill_name": "Social Media",
+          "proficiency_level": "Advanced",
+          "years_experience": 3
+        }
+      ],
+      "certifications": [],
+      "education": [
+        {
+          "education_id": "E013",
+          "degree": "Bachelors",
+          "institution": "Liberal Arts College",
+          "field_of_study": "Communications",
+          "graduation_date": "2020-05-10"
+        }
+      ]
+    },
+    {
+      "professional_id": "P009",
+      "years_experience": 18,
+      "current_industry": "Finance",
+      "current_role": "Investment Director",
+      "education_level": "MBA",
+      "jobs": [
+        {
+          "job_id": "J026",
+          "company": "InvestBank",
+          "industry": "Finance",
+          "role": "Analyst",
+          "start_date": "2005-07-01",
+          "end_date": "2008-06-30",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J027",
+          "company": "CapitalGroup",
+          "industry": "Finance",
+          "role": "Senior Analyst",
+          "start_date": "2008-07-15",
+          "end_date": "2011-12-31",
+          "salary_band": 3
+        },
+        {
+          "job_id": "J028",
+          "company": "WealthFund",
+          "industry": "Finance",
+          "role": "Investment Manager",
+          "start_date": "2012-01-10",
+          "end_date": "2017-05-31",
+          "salary_band": 4
+        },
+        {
+          "job_id": "J029",
+          "company": "GlobalInvest",
+          "industry": "Finance",
+          "role": "Investment Director",
+          "start_date": "2017-06-15",
+          "end_date": null,
+          "salary_band": 5
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S025",
+          "skill_name": "Investment Analysis",
+          "proficiency_level": "Expert",
+          "years_experience": 15
+        },
+        {
+          "skill_id": "S026",
+          "skill_name": "Portfolio Management",
+          "proficiency_level": "Expert",
+          "years_experience": 12
+        },
+        {
+          "skill_id": "S027",
+          "skill_name": "Risk Management",
+          "proficiency_level": "Advanced",
+          "years_experience": 10
+        },
+        {
+          "skill_id": "S091",
+          "skill_name": "Financial Modeling",
+          "proficiency_level": "Expert",
+          "years_experience": 14
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C013",
+          "certification_name": "Chartered Financial Analyst (CFA)",
+          "issuing_organization": "CFA Institute",
+          "date_earned": "2010-06-30",
+          "expiration_date": "2023-06-30"
+        },
+        {
+          "certification_id": "C014",
+          "certification_name": "Financial Risk Manager (FRM)",
+          "issuing_organization": "GARP",
+          "date_earned": "2014-08-15",
+          "expiration_date": "2023-08-15"
+        },
+        {
+          "certification_id": "C037",
+          "certification_name": "Investment Management",
+          "issuing_organization": "CFA Institute",
+          "date_earned": "2016-03-10",
+          "expiration_date": "2022-03-10"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E014",
+          "degree": "Bachelors",
+          "institution": "Finance University",
+          "field_of_study": "Economics",
+          "graduation_date": "2005-05-20"
+        },
+        {
+          "education_id": "E015",
+          "degree": "MBA",
+          "institution": "Business School",
+          "field_of_study": "Finance",
+          "graduation_date": "2009-12-18"
+        }
+      ]
+    },
+    {
+      "professional_id": "P010",
+      "years_experience": 7,
+      "current_industry": "Technology",
+      "current_role": "DevOps Engineer",
+      "education_level": "Bachelors",
+      "jobs": [
+        {
+          "job_id": "J030",
+          "company": "ServerTech",
+          "industry": "Technology",
+          "role": "System Admin",
+          "start_date": "2016-05-10",
+          "end_date": "2018-11-30",
+          "salary_band": 2
+        },
+        {
+          "job_id": "J031",
+          "company": "CloudCorp",
+          "industry": "Technology",
+          "role": "Cloud Engineer",
+          "start_date": "2018-12-15",
+          "end_date": "2021-07-31",
+          "salary_band": 3
+        },
+        {
+          "job_id": "J032",
+          "company": "InfraTech",
+          "industry": "Technology",
+          "role": "DevOps Engineer",
+          "start_date": "2021-08-15",
+          "end_date": null,
+          "salary_band": 4
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S028",
+          "skill_name": "Linux",
+          "proficiency_level": "Advanced",
+          "years_experience": 6
+        },
+        {
+          "skill_id": "S029",
+          "skill_name": "Cloud Infrastructure",
+          "proficiency_level": "Advanced",
+          "years_experience": 5
+        },
+        {
+          "skill_id": "S030",
+          "skill_name": "Kubernetes",
+          "proficiency_level": "Advanced",
+          "years_experience": 4
+        }
+      ],
+      "certifications": [
+        {
+          "certification_id": "C015",
+          "certification_name": "AWS DevOps Professional",
+          "issuing_organization": "Amazon",
+          "date_earned": "2019-07-12",
+          "expiration_date": "2022-07-12"
+        },
+        {
+          "certification_id": "C016",
+          "certification_name": "Kubernetes Administrator",
+          "issuing_organization": "Linux Foundation",
+          "date_earned": "2020-11-18",
+          "expiration_date": "2023-11-18"
+        }
+      ],
+      "education": [
+        {
+          "education_id": "E016",
+          "degree": "Bachelors",
+          "institution": "Tech University",
+          "field_of_study": "Computer Systems",
+          "graduation_date": "2016-05-15"
+        }
+      ]
+    }
+  ]
+}
